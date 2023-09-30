@@ -1593,6 +1593,56 @@ aafff8ff....811..
 .111.....211.......
 ..11.....11........
 `];
+            case "coach_standing":
+            case "anim19":return [img`
+. . . f f f f f . . . 
+. . f f e e e f f . . 
+. . f e e e e e f . . 
+. . e e f e f e e . . 
+. . e e e e e e e . . 
+. . e f e e e f e . . 
+. . . e f f f e . . . 
+. . . . e e e . . . . 
+. c c f 1 e 1 f c c . 
+c c c f 1 2 1 f c c c 
+c c c c f 2 f c c c c 
+c c c c c f c c c c c 
+c c c c c f c 1 1 c c 
+c c c c c f c c c c c 
+c c c c c f c c c c c 
+1 1 c c f c f c c 1 1 
+e e f f c c c f f e e 
+e e c c c . c c c e e 
+. . c c c . c c c . . 
+. . c c c . c c c . . 
+. . c c c . c c c . . 
+. . f f f . f f f . . 
+. . f f f . f f f . . 
+`, img`
+. . . . . . . . . . . 
+. . . f f f f f . . . 
+. . f f e e e f f . . 
+. . f e e e e e f . . 
+. . e e f e f e e . . 
+. . e e e e e e e . . 
+. . e f e e e f e . . 
+. . . e f f f e . . . 
+. . . . e e e . . . . 
+. c c f 1 e 1 f c c . 
+c c c f 1 2 1 f c c c 
+c c c c f 2 f c c c c 
+c c c c c f c c c c c 
+c c c c c f c 1 1 c c 
+c c c c c f c c c c c 
+c c c c c f c c c c c 
+1 1 c c f c f c c 1 1 
+e e f f c c c f f e e 
+e e c c c . c c c e e 
+. . c c c . c c c . . 
+. . c c c . c c c . . 
+. . f f f . f f f . . 
+. . f f f . f f f . . 
+`];
         }
         return null;
     })
