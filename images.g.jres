@@ -1,12 +1,4 @@
 {
-    "image10": {
-        "data": "hwQHAAcAAAAA8QIA8PHyAIj/HwER8REBEf+PCPDy8QAA8gEA",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "ball",
-        "tags": [
-            "globe"
-        ]
-    },
     "image4": {
         "data": "hwQJABcAAAAAAAAAqqqqqgoAAAAA/w+gqqqqqgoAAAAv//+gGv//8f+qKgEv/6oQ8f//8f+qGgEvr6qq/4H/8f8AAAEv/6qv/xL/gYgAAAAvr6of8f//8f+qKgEg/6qgGv//8f+qGgEAAAAAqqqqqgoAAAE=",
         "mimeType": "image/x-mkcd-f4",
@@ -62,6 +54,11 @@
         "tags": [
             "globe"
         ]
+    },
+    "image3": {
+        "data": "hwQTABcAAAAAAAAPAAAAAAAAAAAA//8PAAAAAAAAAADw//8A7u7u7g4AAADwAADg7u7u7g4AAAD//w/gHv//8f/uLgH//+4Q8f//8f/uHgH/7u7u/4H/8f8AAAHv/u7u/xL/gYgAAADv7u4e8f//8f/uLgHw/u7gHv//8f/uHgEAAAAA7u4OAAAAAAEAAAAAAODuAAAAAAAAAAAAAADgDvECAAAAAAAAAADg/vHyAAAAAAAAAAAAiP8fAQAAAAAAAAAAEfERAQAAAAAAAAAAEf+PCAAAAAAAAAAA8PLxAAAAAAAAAAAAAPIBAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tnt_stopped"
     },
     "anim15": {
         "namespace": "myAnimations",
