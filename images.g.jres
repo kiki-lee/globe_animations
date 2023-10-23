@@ -58,10 +58,7 @@
     "image3": {
         "data": "hwQTABcAAAAAAAAPAAAAAAAAAAAA//8PAAAAAAAAAADw//8A7u7u7g4AAADwAADg7u7u7g4AAAD//w/gHv//8f/uLgH//+4Q8f//8f/uHgH/7u7u/4H/8f8AAAHv/u7u/xL/gYgAAADv7u4e8f//8f/uLgHw/u7gHv//8f/uHgEAAAAA7u4OAAAAAAEAAAAAAODuAAAAAAAAAAAAAADgDvECAAAAAAAAAADg/vHyAAAAAAAAAAAAiP8fAQAAAAAAAAAAEfERAQAAAAAAAAAAEf+PCAAAAAAAAAAA8PLxAAAAAAAAAAAAAPIBAAA=",
         "mimeType": "image/x-mkcd-f4",
-        "displayName": "tnt_stopped",
-        "tags": [
-            "globe"
-        ]
+        "displayName": "tnt_stopped"
     },
     "anim15": {
         "namespace": "myAnimations",
